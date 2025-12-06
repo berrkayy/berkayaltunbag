@@ -3,10 +3,10 @@
 I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** [cite: 14, 15] with a passion for software development and entrepreneurship. I love building solutions that solve real-world problems and participating in hackathons! 🚀
 
 ### 🏆 Achievements & Awards
-* [cite_start]🥇 **1st Place** - EGEKAF'25 Entrepreneurship Competition 
-* [cite_start]🚀 **Finalist** - TEKNOFEST KKTC (7th in Turkey & 1st in Presentation Awards) 
-* [cite_start]🏅 **Finalist** - TEKATHON 24 [cite: 38]
-* [cite_start]💡 **Lead** @OptiTech (Optimum Club) - Managing student participation in tech competitions 
+* 🥇 **1st Place** - EGEKAF'25 Entrepreneurship Competition 
+* 🚀 **Finalist** - TEKNOFEST KKTC (7th in Turkey & 1st in Presentation Awards) 
+* 🏅 **Finalist** - TEKATHON 24 [cite: 38]
+* 💡 **Lead** @OptiTech (Optimum Club) - Managed student participation in technology competitions
 
 ---
 
@@ -23,8 +23,8 @@ I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** [cit
 ---
 
 ### 🔭 Experience
-* [cite_start]**Online Intern** @ Denizbank (Dec 2024 - Feb 2025) - Focused on Digital Banking, Blockchain & AI [cite: 30, 31]
-* [cite_start]**Management Team** @ Optimum Kulüp (Sep 2024 - Present) [cite: 34]
+* **Online Intern** @ Denizbank (Dec 2024 - Feb 2025) - Focused on Digital Banking, Blockchain & AI [cite: 30, 31]
+* **Management Team** @ Optimum Kulüp (Sep 2024 - Present) [cite: 34]
 
 ---
 
