@@ -1,6 +1,6 @@
 # Hi there, I'm Berkay! 👋
 
-[cite_start]I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** [cite: 14, 15] with a passion for software development and entrepreneurship. I love building solutions that solve real-world problems and participating in hackathons! 🚀
+I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** [cite: 14, 15] with a passion for software development and entrepreneurship. I love building solutions that solve real-world problems and participating in hackathons! 🚀
 
 ### 🏆 Achievements & Awards
 * [cite_start]🥇 **1st Place** - EGEKAF'25 Entrepreneurship Competition 
