@@ -16,8 +16,11 @@ I'm a Computer Engineering student (2nd year, 100% English program) at Manisa Ce
 
 🚧 Projects
 🌱 Plantinary – Smart & Autonomous Planter – Built the project website (plantinary.com) from scratch with HTML, CSS and JavaScript (responsive, mobile-first) and integrated real-time IoT moisture/irrigation data via API for dynamic visualization.
+
 🎓 OptiFuture – AI-Powered Lifelong Learning Platform – Multi-page website (HTML/CSS/JS) plus a Python career-advisory engine using the OpenAI GPT-3.5 Turbo API: CV information extraction (NLP), fuzzy-matching course recommendations and personalized 3-month career roadmaps.
+
 📱 Fabrika Rehber (Kotlin, Android) – Bulk-syncs factory staff contacts from CSV into the device contacts using the ContactsContract API: regex phone normalization, duplicate detection, batch processing (50 per batch), Coroutines (Dispatchers.IO), ViewBinding, runtime permissions and MVVM architecture; atomic writes via ContentProviderOperation.
+
 🔬 AI & Environmental Sustainability (TÜBİTAK 2209-B) (Python) – Industry-focused research with VNGRS on the 7.4B-parameter Turkish LLM Kumru: FP32→FP16/INT8/4-bit quantization and pruning, energy–performance trade-off analysis, GPU power benchmarking (nvidia-smi, Intel RAPL) and optimized prototypes with Hugging Face bitsandbytes. Goal: 10–15% energy savings per inference with <2% accuracy loss.
 
 ---
