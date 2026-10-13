@@ -1,12 +1,11 @@
-# Hi there, I'm Berkay! 👋
+Hi there, I'm Berkay! 👋
 
-I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** with a passion for software development and entrepreneurship. I love building solutions that solve real-world problems and participating in hackathons! 🚀
+I'm a Computer Engineering student (2nd year, 100% English program) at Manisa Celal Bayar University. I enjoy building solutions to real-world problems, competing in hackathons/ideathons, and I'm aiming to grow into backend and data-focused development. 🚀
 
-### 🏆 Achievements & Awards
-* 🥇 **1st Place** - EGEKAF'25 Entrepreneurship Competition 
-* 🚀 **Finalist** - TEKNOFEST KKTC (7th in Turkey & 1st in Presentation Awards) 
-* 🏅 **Finalist** - TEKATHON 24 
-* 💡 **Lead** @OptiTech (Optimum Club) - Managed student participation in technology competitions
+🏆 Achievements & Awards
+🥇 1st Place – EGEKAF'25 Entrepreneurship Competition
+🚀 Finalist – TEKNOFEST KKTC Research Projects Competition (7th in Türkiye & 1st in Presentation Award) – Plantinary
+🏅 Finalist – TEKNOFEST KKTC Social Innovation Competition (1st, TÜBİTAK Special Presentation Award) – OptiFuture
 
 ---
 
@@ -22,9 +21,18 @@ I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** with
 
 ---
 
-### 🔭 Experience
-* **Online Intern** @ Denizbank (Dec 2024 - Feb 2025) - Focused on Digital Banking, Blockchain & AI 
-* **Management Team** @ Optimum Kulüp (Sep 2024 - Present)
+🚧 Projects
+🌱 Plantinary – Smart & Autonomous Planter – Built the project website (plantinary.com) from scratch with HTML, CSS and JavaScript (responsive, mobile-first) and integrated real-time IoT moisture/irrigation data via API for dynamic visualization.
+🎓 OptiFuture – AI-Powered Lifelong Learning Platform – Multi-page website (HTML/CSS/JS) plus a Python career-advisory engine using the OpenAI GPT-3.5 Turbo API: CV information extraction (NLP), fuzzy-matching course recommendations and personalized 3-month career roadmaps.
+📱 Fabrika Rehber (Kotlin, Android) – Bulk-syncs factory staff contacts from CSV into the device contacts using the ContactsContract API: regex phone normalization, duplicate detection, batch processing (50 per batch), Coroutines (Dispatchers.IO), ViewBinding, runtime permissions and MVVM architecture; atomic writes via ContentProviderOperation.
+🔬 AI & Environmental Sustainability (TÜBİTAK 2209-B) (Python) – Industry-focused research with VNGRS on the 7.4B-parameter Turkish LLM Kumru: FP32→FP16/INT8/4-bit quantization and pruning, energy–performance trade-off analysis, GPU power benchmarking (nvidia-smi, Intel RAPL) and optimized prototypes with Hugging Face bitsandbytes. Goal: 10–15% energy savings per inference with <2% accuracy loss.
+
+---
+
+🔭 Experience
+IT Intern @ Dedem Mekatronik (Oct 2025 – Jan 2026) – Internal tech support, setup and maintenance of shop-floor devices, delivered an information-security awareness presentation, built the Fabrika Rehber Android app.
+Online Intern @ Denizbank (Dec 2024 – Feb 2025) – Training in digital banking, blockchain, data science, AI and sustainable finance; problem solving, presentation and design thinking.
+Team Member @ Optimum Club, MCBU (Sep 2024 – Present) – Team coordination and project tracking for tech, hackathon and ideathon competitions; supported applications, team formation and follow-up for 24 projects and 44 students.
 
 ---
 
@@ -33,5 +41,3 @@ I'm a **Computer Engineering Student** at **Manisa Celal Bayar University** with
 <a href="https://www.linkedin.com/in/berkayaltunbag" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="berkayaltunbag" /></a>
 <a href="mailto:altunbagberkay2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="altunbagberkay2" /></a>
 </p>
-
-![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayaltunbag&show_icons=true&theme=radical)
