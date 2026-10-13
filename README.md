@@ -4,7 +4,9 @@ I'm a Computer Engineering student (2nd year, 100% English program) at Manisa Ce
 
 🏆 Achievements & Awards
 🥇 1st Place – EGEKAF'25 Entrepreneurship Competition
+
 🚀 Finalist – TEKNOFEST KKTC Research Projects Competition (7th in Türkiye & 1st in Presentation Award) – Plantinary
+
 🏅 Finalist – TEKNOFEST KKTC Social Innovation Competition (1st, TÜBİTAK Special Presentation Award) – OptiFuture
 
 ---
